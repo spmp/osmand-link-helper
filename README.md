@@ -1,0 +1,1 @@
+# osmand-link-helper
