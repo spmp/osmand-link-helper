@@ -10,8 +10,8 @@
 // @run-at       document-idle
 // @grant        GM_xmlhttpRequest
 // @connect      nominatim.openstreetmap.org
-// @downloadURL  https://github.com/spmp/osmand-link-helper/main/osmand-link-helper.user.js
-// @updateURL    https://github.com/spmp/osmand-link-helper/main/osmand-link-helper.user.js
+// @downloadURL  https://github.com/spmp/osmand-link-helper/raw/refs/heads/main/osmand-link-helper.user.js
+// @updateURL    https://github.com/spmp/osmand-link-helper/raw/refs/heads/main/osmand-link-helper.user.js
 // ==/UserScript==
 
 /*!
