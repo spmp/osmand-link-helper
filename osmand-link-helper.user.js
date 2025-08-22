@@ -5,7 +5,8 @@
 // @description  Convert address/coords in focused fields into osmand.net/map pin links (split pill + hotkey). No site-specific code.
 // @license      GPL-3.0-or-later
 // @author       Jasper Aorangi
-// @match        https://ksuite.infomaniak.com/*/calendar/*
+// @match        https://ksuite.infomaniak.com/*/calendar*
+// @match        https://calendar.infomaniak.com/*
 // @match        https://calendar.google.com/calendar/*
 // @run-at       document-idle
 // @grant        GM_xmlhttpRequest
